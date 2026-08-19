@@ -1,4 +1,4 @@
-# 🛒 Zepto E-commerce SQL Data Analyst Portfolio Project
+# 🛒 Zepto E-commerce Inventory Analysis
 
 ## 📌 Project Overview
 
